@@ -1,6 +1,0 @@
-  Conversation started at 2023-12-09 04-04
-
-  You : yoga benefits
-  Bard: 1. Improves flexibility. 2. Strengthens muscles. 3. Improves balance. 4. Reduces stress. 5. Improves sleep. 6. Boosts mood. 7. Reduces pain. 8. Improves digestion. 9. Lowers blood pressure. 10. Reduces risk of heart disease. 11. Improves overall health and well-being.
-
-  - https://github.com/QuantumByteStudios/google-bard-on-console
