@@ -1,0 +1,2 @@
+- https://developers.generativeai.google/tutorials/text_quickstart
+- https://makersuite.google.com/app/apikey
