@@ -14,7 +14,7 @@ while True:
         break
 
     utils.clear_screen()
-    print(f"You  : {utils.colors.BOLD}{user_prompt}{utils.colors.END}")
+    print(f"\nYou  : {utils.colors.BOLD}{user_prompt}{utils.colors.END}")
     response = b.askBard(user_prompt)
     if response == "" or response == None:
         print(f"Bard : {utils.colors.RED}No response{utils.colors.END}")
