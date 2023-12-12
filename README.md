@@ -59,3 +59,10 @@ Google Bard on Console is a console-based AI chat application that brings the po
    ```
 
 ### Screenshots
+![0](https://github.com/QuantumByteStudios/google-bard-on-console/assets/81068582/5abe3ed5-9d93-4158-83a8-36a95e74bc7f)
+
+![1](https://github.com/QuantumByteStudios/google-bard-on-console/assets/81068582/61d68696-c346-4214-bd9b-712d6e730668)
+
+![2](https://github.com/QuantumByteStudios/google-bard-on-console/assets/81068582/5d375fd9-1a81-4698-9d32-fa6498336da8)
+
+![3](https://github.com/QuantumByteStudios/google-bard-on-console/assets/81068582/760bc515-7ee2-4032-a969-b749c9e5fe69)
