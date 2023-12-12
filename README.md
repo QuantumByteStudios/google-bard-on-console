@@ -57,3 +57,5 @@ Google Bard on Console is a console-based AI chat application that brings the po
    ```bash
    python main.py
    ```
+
+### Screenshots
