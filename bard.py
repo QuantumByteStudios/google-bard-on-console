@@ -23,7 +23,8 @@ def askBard(p):
 
     result = completion.result
     if result is not None:
-        result = result.replace("*", str(bullet_point)).replace("```", str(source_code_tag))
+        # result = result.replace("*", str(bullet_point)).replace("```", str(source_code_tag))
+        result = result.replace("*", " ")
     else:
         result = ""
     # print(result)

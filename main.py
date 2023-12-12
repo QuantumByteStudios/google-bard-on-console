@@ -19,18 +19,18 @@ while True:
     if response == "" or response == None:
         print(f"Bard : {utils.colors.RED}No response{utils.colors.END}")
     else:
-        print(f"Bard : {utils.colors.BLUE}{b.askBard(user_prompt)}{utils.colors.END}")
+        print(f"Bard : {utils.colors.GREEN}Response: {utils.colors.END}\n{utils.colors.BLUE}{b.askBard(user_prompt)}{utils.colors.END}")
     print(f"\n{utils.colors.END}")
 
     action = input("Type 'save()' to save this conversation. Press enter to continue. If you want to exit, type 'exit()': ")
     if action == "save()":
         current_datetime = datetime.now()
         formatted_datetime = current_datetime.strftime("%Y-%m-%d %H-%M")
-        file_name = "Google Bard On Console - Conversation " + str(formatted_datetime) + ".txt"
+        file_name = "conversations/Google Bard On Console - Conversation " + str(formatted_datetime) + ".txt"
         file = open(file_name, "a")
         file.write("  Google Bard On Console - Conversation " + str(formatted_datetime) + "\n\n")
         file.write("  You : " + user_prompt + "\n")
-        file.write("  Bard: " + response + "\n\n")
+        file.write("  Bard: Response:\n\n" + response + "\n\n")
         file.write("  - https://github.com/QuantumByteStudios/google-bard-on-console" + "\n")
         file.close()
     if action == "exit()":

@@ -28,6 +28,28 @@ Google Bard on Console is a console-based AI chat application that brings the po
    pip install -r requirements.txt
    ```
 
+### API Key
+
+1.  Get an API Key:
+
+    To use the API, you need an API key. You can create a key with one click in <a href="https://makersuite.google.com/app/apikey">MakerSuite</a>.
+
+2.  Create api.py File:
+
+    In the root directory of your project, create a new file named api.py.
+
+3.  Add API Key to api.py:
+
+    Open api.py in a text editor and add the following line:
+
+          API_KEY = "YOUR_API_KEY_HERE"
+
+    Replace YOUR_API_KEY with the actual API key you obtained.
+
+4.  Save the File:
+
+    Save the changes to api.py.
+
 ### Usage
 
 1. Run the application:
@@ -35,5 +57,3 @@ Google Bard on Console is a console-based AI chat application that brings the po
    ```bash
    python main.py
    ```
-
-2. Start chatting with Google Bard using natural language commands.

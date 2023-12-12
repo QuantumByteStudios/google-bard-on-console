@@ -1,0 +1,35 @@
+  Google Bard On Console - Conversation 2023-12-12 15-09
+
+  You : how to bake a cake
+  Bard: Response:
+
+  Ingredients  
+
+  1 1/2 cups all-purpose flour
+  1 teaspoon baking powder
+  1/2 teaspoon baking soda
+  1/2 teaspoon salt
+  1 cup (2 sticks) unsalted butter, softened
+  3/4 cup granulated sugar
+  3/4 cup packed light brown sugar
+  2 large eggs
+  1 teaspoon vanilla extract
+  1 cup milk
+
+  Instructions  
+
+1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan.
+2. In a medium bowl, whisk together the flour, baking powder, baking soda, and salt.
+3. In a large bowl, cream together the butter and granulated sugar until light and fluffy. Beat in the brown sugar until well combined. Beat in the eggs one at a time, then stir in the vanilla extract. Add the dry ingredients to the wet ingredients alternately with the milk, beginning and ending with the dry ingredients. Stir until just combined.
+4. Pour the batter into the prepared pan and bake for 25-35 minutes, or until a toothpick inserted into the center comes out clean. Let cool completely before frosting.
+
+  Frosting  
+
+  8 ounces cream cheese, softened
+  1/2 cup (1 stick) unsalted butter, softened
+  1 1/2 cups powdered sugar
+  1 teaspoon vanilla extract
+
+1. In a medium bowl, beat together the cream cheese and butter until smooth. Beat in the powdered sugar and vanilla extract until well combined. Frost the cooled cake and serve.
+
+  - https://github.com/QuantumByteStudios/google-bard-on-console
