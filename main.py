@@ -37,3 +37,6 @@ while True:
         break
 
     utils.clear_screen()
+
+
+# Google Bard Console
